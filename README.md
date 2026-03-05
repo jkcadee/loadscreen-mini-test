@@ -15,7 +15,3 @@ Please complete the following tasks. Each task builds on the existing codebase (
 
 - [ ] **Task 4 — Pagination**
   Limit the employee table to 5 rows per page. Add Previous / Next controls and a page indicator. Pagination should work together with search and department filter.
-
----
-
-# loadscreen-mini-test
